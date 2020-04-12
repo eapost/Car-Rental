@@ -1,4 +1,4 @@
-# CarRentalData
+# Car-Rental
 
 # Description of the Case:
 A car rental company (let's call it CRC) wants to develop a relational database to monitor customers, rentals, fleet and locations.
